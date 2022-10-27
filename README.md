@@ -4,3 +4,5 @@ This is a git repository for a senior project for the implementation of a RESTfu
 Navigate to CPI_Project\TestAPI\oatpp-starter\build\Debug
 Then run the file my-project-exe.exe
 once it runs open a browser and hit localhost on port 8000
+
+NOTE: you may need cmake implemented with visual studio to be able to run this
