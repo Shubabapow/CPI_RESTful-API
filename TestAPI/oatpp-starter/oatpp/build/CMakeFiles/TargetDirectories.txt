@@ -1,0 +1,8 @@
+C:/workspaces/RestAPI/TestAPI/oatpp-starter/oatpp/build/CMakeFiles/PACKAGE.dir
+C:/workspaces/RestAPI/TestAPI/oatpp-starter/oatpp/build/CMakeFiles/INSTALL.dir
+C:/workspaces/RestAPI/TestAPI/oatpp-starter/oatpp/build/CMakeFiles/ALL_BUILD.dir
+C:/workspaces/RestAPI/TestAPI/oatpp-starter/oatpp/build/CMakeFiles/ZERO_CHECK.dir
+C:/workspaces/RestAPI/TestAPI/oatpp-starter/oatpp/build/src/CMakeFiles/oatpp.dir
+C:/workspaces/RestAPI/TestAPI/oatpp-starter/oatpp/build/src/CMakeFiles/oatpp-test.dir
+C:/workspaces/RestAPI/TestAPI/oatpp-starter/oatpp/build/src/CMakeFiles/PACKAGE.dir
+C:/workspaces/RestAPI/TestAPI/oatpp-starter/oatpp/build/src/CMakeFiles/INSTALL.dir

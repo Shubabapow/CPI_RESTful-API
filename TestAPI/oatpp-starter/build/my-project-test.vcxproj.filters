@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\workspaces\RestAPI\TestAPI\oatpp-starter\test\tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\workspaces\RestAPI\TestAPI\oatpp-starter\test\MyControllerTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\workspaces\RestAPI\TestAPI\oatpp-starter\test\app\TestComponent.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\workspaces\RestAPI\TestAPI\oatpp-starter\test\app\MyApiTestClient.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\workspaces\RestAPI\TestAPI\oatpp-starter\test\MyControllerTest.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\workspaces\RestAPI\TestAPI\oatpp-starter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{03FC4592-3114-3358-95C5-F717A93D0890}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4844F543-20DF-37C8-B31F-7531EA24297E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
