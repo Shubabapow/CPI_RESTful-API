@@ -1,6 +1,0 @@
-C:/workspaces/RestAPI/TestAPI/oatpp-starter/build/CMakeFiles/my-project-lib.dir
-C:/workspaces/RestAPI/TestAPI/oatpp-starter/build/CMakeFiles/my-project-exe.dir
-C:/workspaces/RestAPI/TestAPI/oatpp-starter/build/CMakeFiles/my-project-test.dir
-C:/workspaces/RestAPI/TestAPI/oatpp-starter/build/CMakeFiles/RUN_TESTS.dir
-C:/workspaces/RestAPI/TestAPI/oatpp-starter/build/CMakeFiles/ALL_BUILD.dir
-C:/workspaces/RestAPI/TestAPI/oatpp-starter/build/CMakeFiles/ZERO_CHECK.dir
