@@ -2,11 +2,13 @@
 
 This is a git repository for a senior project for the implementation of a RESTful API
 How to get crow setup with a project:
-(Need: 
+
+# Need:
+__________
 •	git  
 •	visual studio (2019 recommended – should be installed to create C++ programs and use CMake)
 •	CMake (should come with VS)
-)
+
 
 Create folder
 Navigate to folder in terminal
